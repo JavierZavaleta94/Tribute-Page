@@ -1,0 +1,34 @@
+html {
+  background-color: #C0C0C0;
+}
+
+img{
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+main, figure, h2, #timeline{
+  text-align: center;
+}
+
+h2{
+  padding: 10px;
+}
+
+section #quote {
+  text-align: center;
+  font-style: italic;
+}
+
+ul {
+  max-width: 550px;
+  margin: 0 auto 35 auto;
+  line-height: 2;
+}
+
+figcaption{
+  padding: 5px;
+}
