@@ -1,2 +1,2 @@
 # Tribute-Page
-HTML Project
+HTML Tribute Page Project
