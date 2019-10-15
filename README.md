@@ -1,4 +1,4 @@
 # Tribute-Page
 HTML Tribute Page Project
 
-https://javierzavaleta94.github.io/
+https://javierzavaleta94.github.io/Tribute-Page/
